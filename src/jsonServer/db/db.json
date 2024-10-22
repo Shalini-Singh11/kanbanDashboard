@@ -1,0 +1,218 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "user@example.com",
+      "password": "password123"
+    },
+    {
+      "id": "1729077771322",
+      "name": "Anastasia Kline",
+      "username": "rocokep",
+      "email": "bycybudux@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "contactNumber": "26",
+      "profileImage": null
+    }
+  ],
+  "dashboard": {
+    "total_task": 10,
+    "total_ongoing": 5,
+    "total_pending": 3,
+    "total_complete": 2
+  },
+  "tasks": [
+    {
+      "id": "1",
+      "name": "Design Landing Page",
+      "priority": "medium",
+      "deadline": "2024-10-20",
+      "stage": 3
+    },
+    {
+      "id": "3",
+      "name": "Set Up Database",
+      "priority": "low",
+      "deadline": "2024-11-01",
+      "stage": 3
+    },
+    {
+      "id": "4",
+      "name": "Deploy Application",
+      "priority": "high",
+      "deadline": "2024-11-10",
+      "stage": 3
+    },
+    {
+      "id": "1729080820996",
+      "name": "taskwith id",
+      "priority": "medium",
+      "deadline": "2024-10-10",
+      "stage": 0,
+      "userId": "1"
+    },
+    {
+      "id": "1729081586317",
+      "name": "Plato Frost",
+      "priority": "low",
+      "deadline": "2016-01-11",
+      "stage": 0
+    },
+    {
+      "id": "1729082073960",
+      "name": "Adria Burris",
+      "priority": "high",
+      "deadline": "2018-11-01",
+      "stage": 1
+    },
+    {
+      "id": "1729082197503",
+      "name": "Wyoming Glass",
+      "priority": "medium",
+      "deadline": "1989-01-22",
+      "stage": 2
+    },
+    {
+      "id": "a00e",
+      "name": "Nola Rivera",
+      "priority": "low",
+      "deadline": "1995-02-09",
+      "stage": 3,
+      "userId": 1729138758147
+    },
+    {
+      "id": "6554",
+      "name": "Odysseus Sellers",
+      "priority": "medium",
+      "deadline": "1973-12-05",
+      "stage": 0,
+      "userId": 1729138758147
+    },
+    {
+      "id": "d6eb",
+      "name": "Stephen Finley",
+      "priority": "high",
+      "deadline": "1981-04-20",
+      "stage": 0
+    },
+    {
+      "id": "824c",
+      "name": "Scarlet Pacheco",
+      "priority": "medium",
+      "deadline": "2001-02-03",
+      "stage": 0
+    },
+    {
+      "id": "13c2",
+      "name": "Kellie Ramsey",
+      "priority": "high",
+      "deadline": "1970-09-08",
+      "stage": 2,
+      "userId": 1729138758147
+    },
+    {
+      "id": "fc52",
+      "name": "Micah Finley",
+      "priority": "medium",
+      "deadline": "2014-04-08",
+      "stage": 1,
+      "userId": 1729138758147
+    },
+    {
+      "id": "b1d8",
+      "name": "Cailin Myers",
+      "priority": "medium",
+      "deadline": "2001-02-04",
+      "stage": 1,
+      "userId": "1729077888903"
+    },
+    {
+      "id": "3fdf",
+      "name": "Carly Gregory",
+      "priority": "low",
+      "deadline": "1976-10-14",
+      "stage": 3,
+      "userId": "1729077771322"
+    },
+    {
+      "id": "ff18",
+      "name": "Daniel Allen",
+      "priority": "medium",
+      "deadline": "2002-12-26",
+      "stage": 0
+    },
+    {
+      "id": "ddfb",
+      "name": "Yoshio Mcleod",
+      "priority": "high",
+      "deadline": "2007-10-11",
+      "stage": 0
+    },
+    {
+      "id": "5ba0",
+      "name": "Olga Mejia",
+      "priority": "medium",
+      "deadline": "2013-01-08",
+      "stage": 1,
+      "userId": "1"
+    },
+    {
+      "id": "f4aa",
+      "name": "Astra Castaneda",
+      "priority": "medium",
+      "deadline": "1999-02-18",
+      "stage": 0
+    },
+    {
+      "id": "c497",
+      "name": "sql",
+      "priority": "high",
+      "deadline": "2024-10-17",
+      "stage": 0
+    },
+    {
+      "id": "30af",
+      "name": "Dante Gray",
+      "priority": "high",
+      "deadline": "2022-02-27",
+      "stage": 3,
+      "userId": "1"
+    },
+    {
+      "id": "8b9c",
+      "name": "Brock Huffman",
+      "priority": "low",
+      "deadline": "1990-03-16",
+      "stage": 2,
+      "userId": "1"
+    },
+    {
+      "id": "e3ec",
+      "name": "Lani Lloyd",
+      "priority": "medium",
+      "deadline": "1999-10-23",
+      "stage": 0
+    },
+    {
+      "id": "bfe6",
+      "name": "Cassandra Cooper",
+      "priority": "high",
+      "deadline": "2005-03-24",
+      "stage": 0
+    },
+    {
+      "id": "9e0d",
+      "name": "Winter Chandler",
+      "priority": "medium",
+      "deadline": "1982-09-23",
+      "stage": 0
+    },
+    {
+      "id": "d87a",
+      "name": "Maite Mcdonald",
+      "priority": "medium",
+      "deadline": "1982-10-21",
+      "stage": 0
+    }
+  ]
+}
