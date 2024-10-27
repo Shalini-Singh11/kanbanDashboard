@@ -13,6 +13,15 @@
       "password": "Pa$$w0rd!",
       "contactNumber": "26",
       "profileImage": null
+    },
+    {
+      "id": 1730013573625,
+      "name": "abc",
+      "username": "abc3",
+      "email": "abc@gmail.com",
+      "password": "abc123",
+      "contactNumber": "",
+      "profileImage": null
     }
   ],
   "dashboard": {
@@ -213,6 +222,22 @@
       "priority": "medium",
       "deadline": "1982-10-21",
       "stage": 0
+    },
+    {
+      "id": "c3e6",
+      "name": "sql",
+      "priority": "high",
+      "deadline": "2024-10-28",
+      "stage": 3,
+      "userId": 1730013573625
+    },
+    {
+      "id": "34b4",
+      "name": "intergration api",
+      "priority": "low",
+      "deadline": "2024-10-31",
+      "stage": 0,
+      "userId": 1730013573625
     }
   ]
 }
