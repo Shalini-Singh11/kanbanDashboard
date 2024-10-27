@@ -13,6 +13,15 @@
       "password": "Pa$$w0rd!",
       "contactNumber": "26",
       "profileImage": null
+    },
+    {
+      "id": 1730012705995,
+      "name": "abc",
+      "username": "abc2",
+      "email": "abc@gmail.com",
+      "password": "abc123",
+      "contactNumber": "",
+      "profileImage": null
     }
   ],
   "dashboard": {
@@ -46,7 +55,7 @@
     {
       "id": "1729080820996",
       "name": "taskwith id",
-      "priority": "medium",
+      "priority": "high",
       "deadline": "2024-10-10",
       "stage": 0,
       "userId": "1"
@@ -119,100 +128,34 @@
       "userId": 1729138758147
     },
     {
-      "id": "b1d8",
-      "name": "Cailin Myers",
-      "priority": "medium",
-      "deadline": "2001-02-04",
-      "stage": 1,
-      "userId": "1729077888903"
-    },
-    {
-      "id": "3fdf",
-      "name": "Carly Gregory",
-      "priority": "low",
-      "deadline": "1976-10-14",
-      "stage": 3,
-      "userId": "1729077771322"
-    },
-    {
-      "id": "ff18",
-      "name": "Daniel Allen",
-      "priority": "medium",
-      "deadline": "2002-12-26",
-      "stage": 0
-    },
-    {
-      "id": "ddfb",
-      "name": "Yoshio Mcleod",
-      "priority": "high",
-      "deadline": "2007-10-11",
-      "stage": 0
-    },
-    {
-      "id": "5ba0",
-      "name": "Olga Mejia",
-      "priority": "medium",
-      "deadline": "2013-01-08",
-      "stage": 1,
-      "userId": "1"
-    },
-    {
-      "id": "f4aa",
-      "name": "Astra Castaneda",
-      "priority": "medium",
-      "deadline": "1999-02-18",
-      "stage": 0
-    },
-    {
-      "id": "c497",
+      "id": "fafb",
       "name": "sql",
       "priority": "high",
-      "deadline": "2024-10-17",
-      "stage": 0
+      "deadline": "2024-10-29",
+      "stage": 1,
+      "userId": 1730012705995
     },
     {
-      "id": "30af",
-      "name": "Dante Gray",
-      "priority": "high",
-      "deadline": "2022-02-27",
-      "stage": 3,
-      "userId": "1"
-    },
-    {
-      "id": "8b9c",
-      "name": "Brock Huffman",
-      "priority": "low",
-      "deadline": "1990-03-16",
-      "stage": 2,
-      "userId": "1"
-    },
-    {
-      "id": "e3ec",
-      "name": "Lani Lloyd",
+      "id": "9231",
+      "name": "database",
       "priority": "medium",
-      "deadline": "1999-10-23",
+      "deadline": "2024-10-28",
       "stage": 0
     },
     {
-      "id": "bfe6",
-      "name": "Cassandra Cooper",
-      "priority": "high",
-      "deadline": "2005-03-24",
-      "stage": 0
-    },
-    {
-      "id": "9e0d",
-      "name": "Winter Chandler",
+      "id": "3641",
+      "name": "folder",
       "priority": "medium",
-      "deadline": "1982-09-23",
+      "deadline": "2024-10-28",
       "stage": 0
     },
     {
-      "id": "d87a",
-      "name": "Maite Mcdonald",
+      "id": "b7bc",
+      "name": "folder",
       "priority": "medium",
-      "deadline": "1982-10-21",
-      "stage": 0
+      "deadline": "2024-10-30",
+      "stage": 0,
+      "userId": 1730012705995
     }
   ]
 }
